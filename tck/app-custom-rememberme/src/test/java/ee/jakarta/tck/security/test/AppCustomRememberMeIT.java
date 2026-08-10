@@ -29,7 +29,7 @@ import org.jboss.shrinkwrap.api.Archive;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import org.htmlunit.util.Cookie;
+import org.htmlunit.http.Cookie;
 
 
 @RunWith(Arquillian.class)

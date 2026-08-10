@@ -121,7 +121,7 @@
                                 <artifactItem>
                                     <groupId>jakarta.cdi</groupId>
                                     <artifactId>jakarta.cdi-api</artifactId>
-                                    <version>5.0.0.Alpha5</version>
+                                    <version>5.0.0.CR1</version>
                                     <type>jar</type>
                                     <overWrite>true</overWrite>
                                     <outputDirectory>${project.build.directory}/</outputDirectory>
